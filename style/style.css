@@ -350,11 +350,14 @@ border-radius: 8px;
 background: rgb(255, 255, 255);
 }
 /* footer section */
-/* .footer{
+.icon img{
+    margin-left: 10px;
+}
+.footer{
     display: flex;
     justify-content: space-around;
     margin: 20px 0px;
     border-radius: 16px;
 
-background: rgba(13, 19, 33, 0.03); */
+background: rgba(13, 19, 33, 0.03);
 }
